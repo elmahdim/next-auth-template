@@ -2,4 +2,4 @@
 
 ### Providers
 
-- [Google Provider](/elmahdim/next-auth-template/tree/google-provider)
+- [Google Provider](https://github.com/elmahdim/next-auth-template/tree/google-provider)
